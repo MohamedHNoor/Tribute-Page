@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
